@@ -2,9 +2,11 @@
 
 An in-progress responsive web application designed to store, categorize, and keep snapshots of your favourite links using React, Spring Boot, and MySQL.
 
-Successfully Implemented:
 
-Main Page(large screen)
+## Successfully Implemented:
+
+
+### Main Page(large screen)
 ![image](https://github.com/hannahwangmb/FavGuard/assets/89106221/842d841d-a582-482a-b558-14e6539834ab)
 
 Main Page(small screen)
