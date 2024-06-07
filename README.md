@@ -14,7 +14,7 @@ An in-progress responsive web application designed to store, categorize, and kee
 ![image](https://github.com/hannahwangmb/FavGuard/assets/89106221/fb46a55a-3a56-410d-9407-b4ddca1762f1)
 
 
-Main 
+### Hidden Search Bar(small screen)
 ![image](https://github.com/hannahwangmb/FavGuard/assets/89106221/6080f943-2c76-4951-9584-f2176483d159)
 
 
