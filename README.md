@@ -30,6 +30,15 @@ An in-progress responsive web application designed to store, categorize, and kee
 ![image](https://github.com/hannahwangmb/FavGuard/assets/89106221/36c99e60-b189-4216-8f3c-5d0173553cc9)
 
 
+### Card Grid layout
+#### big screen
+![image](https://github.com/hannahwangmb/FavGuard/assets/89106221/cfa70eb4-5b2f-40d3-b1c1-1cc5468bb9c9)
+#### medium screen
+![image](https://github.com/hannahwangmb/FavGuard/assets/89106221/f0224650-3fe7-4baa-8280-bd79c84dc781)
+#### small screen
+![image](https://github.com/hannahwangmb/FavGuard/assets/89106221/4e58a0b5-eab9-4cde-82b9-189f6326e513)
+
+
 ## To Do:
 1. replace "UserDefineTag" with the real tag names in the database.
 2. set up the page to display stored links
