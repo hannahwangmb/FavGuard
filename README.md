@@ -33,8 +33,11 @@ An in-progress responsive web application designed to store, categorize, and kee
 ### Store in database(MySql) after adding new link/tag
 ![image](https://github.com/hannahwangmb/FavGuard/assets/89106221/36c99e60-b189-4216-8f3c-5d0173553cc9)
 
-## To Do:
-1. replace "UserDefineTag" with the real tag names in the database.
-2. set up the page to display stored links
-3. get the snapshot of stored links
-4. TBD...
+## To Do: 
+1. replace "UserDefineTag" with the real tag names in the database
+2. adjust the save link bar in hidden sidebar
+3. set up the page to display stored links
+4. enable create blank notes without a link
+5. get the snapshot of stored links
+6. set up user authority, log-in function
+7. deployment
