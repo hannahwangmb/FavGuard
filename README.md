@@ -5,7 +5,7 @@ An in-progress responsive web application designed to store, categorize, and kee
 Unable to access the information you saved for later viewing? Here's the solution:)
 
 
-## Successfully Implemented:
+## Initial completion:
 
 
 ### Main Page(large screen)
