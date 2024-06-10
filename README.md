@@ -2,6 +2,8 @@
 
 An in-progress responsive web application designed to store, categorize, and keep snapshots of your favourite links using React, Spring Boot, and MySQL.
 
+Unable to access the information you saved for later viewing? Here's the solution:)
+
 
 ## Successfully Implemented:
 
