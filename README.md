@@ -33,12 +33,15 @@ An in-progress responsive web application designed to store, categorize, and kee
 ### Store in database(MySql) after adding new link/tag
 ![image](https://github.com/hannahwangmb/FavGuard/assets/89106221/36c99e60-b189-4216-8f3c-5d0173553cc9)
 
+
 ## To Do: 
-1. add features for tag names: edit, delete, moving position
-2. adjust the save link bar in the hidden sidebar
-3. set up card layout: title, part of content preview, date, source, tagname
-4. enable create blank notes without a link
-5. get the snapshot of stored links
-6. set up user authority, log-in function
-7. set up card page: open link version, snapshot version, edit, delete, ping features
-9. deployment
+1. add features for tag names: edit, delete, moving position, make sure the data is changed correctly in the database
+2. auto refresh after new tag name is added(or any other solution)
+3. adjust the save link bar in the hidden sidebar
+4. set up card layout: title, part of content preview, date, source, tagname
+5. enable create blank notes without a link
+6. get the snapshot of stored links
+7. set up user authority, log-in function
+8. double click a card to enter it
+9. set up card page: open link version, snapshot version, edit, delete, ping features
+10. deployment
